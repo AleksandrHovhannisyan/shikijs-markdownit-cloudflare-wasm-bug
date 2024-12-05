@@ -1,0 +1,7 @@
+name = "shikijs-markdownit-cloudflare-wasm-bug"
+main = "./index.ts"
+compatibility_date = "2022-07-12"
+
+[dev]
+port = 3000
+local_protocol = "http"
